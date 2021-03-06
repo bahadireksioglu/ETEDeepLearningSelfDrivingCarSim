@@ -1,4 +1,4 @@
-# self_driving_car_nvidias_ete_deep_learning
+# END TO END DEEP LEARNING FOR SELF DRIVING CAR - SIMULATION
 Self driving car simulation 
 
 It is simple simulation for End-to-End Deep Learning for Self-Driving Cars.
